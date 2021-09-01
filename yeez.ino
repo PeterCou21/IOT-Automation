@@ -11,8 +11,8 @@ int channel = 0;
 int resolution = 8;
 
 
-const char* ssid = "SKYX2YPS 2.4GHz";
-const char* password = "chp6pcs5BWeF";
+const char* ssid = "\.\.\.\.\.";
+const char* password = "_-____-___----__";
 
 void setup() {
   pinMode(led_pin, OUTPUT);
